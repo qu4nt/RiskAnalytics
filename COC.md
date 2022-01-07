@@ -1,6 +1,6 @@
 ## Código de conducta
 
-El equipo de desarrollo de esta traducción está constituído por mujeres que trabajan bajo un proceso de toma de decisiones consensuado. Como equipo de trabajo de tecnologías, nos regimos por el Código de Conducta de Contributor Covenant, esforzándonos además por promover prácticas de trabajo en equipo no agresivas e incómodas para mujeres.
+El equipo de desarrollo de este desarrollo está constituído mayoritariamente por mujeres que trabajan bajo un proceso de toma de decisiones consensuado. Como equipo de trabajo de tecnologías, nos regimos por el Código de Conducta de Contributor Covenant, esforzándonos además por promover prácticas de trabajo en equipo no agresivas e incómodas para mujeres.
 
 A continuación se transcribe el código de conducta que seguimos:
 
